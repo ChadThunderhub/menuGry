@@ -1,0 +1,44 @@
+{
+  "info": {
+    "name": "MenuGry",
+    "wersja": 0.2137
+  },
+
+  "ranking": {
+    "SCORE": 420
+  },
+
+  "options": {
+    "graphics": {
+      "resolution": "690x400",
+      "textures": "ultra",
+      "shadows": "high",
+      "draw distance": "far",
+      "FOV": 90,
+      "dlss": "balanced"
+    },
+
+    "controls": {
+      "movement": {
+        "forward": "w",
+        "back": "s",
+        "left": "a",
+        "right": "d"
+      }
+    },
+
+    "sound": {
+      "type": "headphones",
+      "range": "wide",
+      "volume": 10
+    },
+
+    "credits": {
+      "Wiktor": "Pieprzowski",
+      "indeks": 156657,
+      "semestr": 2,
+      "rok akademicki": 1,
+      "tryb": "dzienne"
+    }
+  }
+}
