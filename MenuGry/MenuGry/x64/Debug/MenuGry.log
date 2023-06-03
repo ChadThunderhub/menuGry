@@ -1,4 +1,0 @@
-﻿  MenuGry.cpp
-C:\AHE\MenuGry\MenuGry\MenuGry.cpp(28,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-C:\AHE\MenuGry\MenuGry\MenuGry.cpp(242,9): warning C4551: wywołaniu funkcji brakuje listy argumentów
-  MenuGry.vcxproj -> C:\AHE\MenuGry\x64\Debug\MenuGry.exe
