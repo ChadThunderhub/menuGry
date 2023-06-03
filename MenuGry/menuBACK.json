@@ -1,0 +1,44 @@
+{
+  "info": {
+    "nazwaProgramu": "MenuGry",
+    "wersja": 0.2137
+  },
+
+  "ranking": {
+    "WYNIK": 420
+  },
+
+  "opcje": {
+    "Ustawienia Graficzne": {
+      "rozdzielczoœæ": "690x400",
+      "tekstury": "ultra",
+      "jakoœæ cieni": "wysoka",
+      "odlegoœæ rysowania": "daleka",
+      "pole widzenia": 90,
+      "dlss": "zrównowa¿ona"
+    },
+
+    "sterowanie": {
+      "ruch": {
+        "przód": "w",
+        "ty³": "s",
+        "lewo": "a",
+        "prawo": "d"
+      }
+    },
+
+    "dŸwiêk": {
+      "typ urz¹dzenia": "s³uchawki",
+      "rozpiêtoœc tonalna": "szeroko",
+      "g³oœnoœæ": 10
+    },
+
+    "credits": {
+      "Wiktor": "Pieprzowski",
+      "indeks": 156657,
+      "semestr": 2,
+      "rok akademicki": 1,
+      "tryb": "dzienne"
+    }
+  }
+}
